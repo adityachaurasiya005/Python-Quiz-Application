@@ -32,7 +32,7 @@ A command-line Quiz Application built with Python. The application allows users 
 ## 📂 Project Structure
 
 ```
-Quiz-Application/
+Python-Quiz-Application/
 │── quiz.py
 │── score.txt
 │── README.md
@@ -46,7 +46,7 @@ Quiz-Application/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/adityachaurasiya005/Quiz-Application.git
+git clone https://github.com/adityachaurasiya005/Python-Quiz-Application.git
 ```
 
 2. Navigate to the project folder
